@@ -13,9 +13,9 @@ Este projeto é um **Calendário**. Ele exibe os meses e dias de forma dinâmica
 ---
 
 ## Funcionalidades
-- **Navegação entre meses**: Botões para avançar ou retroceder no calendário.
-- **Exibição dinâmica**: Dias são ajustados automaticamente conforme o mês e ano selecionado.
-- **Indicação do dia atual**: Destaque para o dia atual.
+1. **Navegação entre meses**: Botões para avançar ou retroceder no calendário.
+2. **Exibição dinâmica**: Dias são ajustados automaticamente conforme o mês e ano selecionado.
+3. **Indicação do dia atual**: Destaque para o dia atual.
 
 ---
 
